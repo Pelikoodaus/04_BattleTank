@@ -1,5 +1,6 @@
-# 04_BattleTank
+# BattleTank
 open world head to head tank game
+[Link](https://github.com/Pelikoodaus/04_BattleTank)
 
 ## Lecture List
 
