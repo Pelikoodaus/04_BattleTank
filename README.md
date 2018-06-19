@@ -14,3 +14,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT08 fixing 3rd person camera rotation
 * BT09 UI
 * BT10 Main Menu screens
+* BT11 UI Scale Box, Buttons & Mouse
