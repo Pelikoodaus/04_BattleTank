@@ -17,3 +17,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT11 UI Scale Box, Buttons & Mouse
 * BT12 Controller ready navigation
 * BT13 Delegating to components
+* BT14 Using virtual and override
