@@ -20,3 +20,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT14 Using virtual and override
 * BT15 Creating an AI controller class
 * BT16 Get the player controller with c++
+* Add Tick() to player controller
