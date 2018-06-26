@@ -18,3 +18,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT12 Controller ready navigation
 * BT13 Delegating to components
 * BT14 Using virtual and override
+* BT15 Creating an AI controller class
