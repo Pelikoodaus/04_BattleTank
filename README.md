@@ -22,3 +22,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT16 Get the player controller with c++
 * BT17 Add Tick() to player controller
 * BT18 Creating an out parameter method
+* BT19 Finding Screen Pixel Coordinates
