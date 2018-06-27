@@ -24,3 +24,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT18 Creating an out parameter method
 * BT19 Finding Screen Pixel Coordinates
 * BT20 Using DeprojectScreenToWorld
+* BT21 Using LineTraceSingleByChannel()
