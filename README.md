@@ -25,3 +25,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT19 Finding Screen Pixel Coordinates
 * BT20 Using DeprojectScreenToWorld
 * BT21 Using LineTraceSingleByChannel()
+* BT22 Unify Player & AI Aiming
