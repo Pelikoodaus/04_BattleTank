@@ -29,3 +29,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT23 Creating Default Sub Objects in C++
 * BT24 BlueprintCallable
 * BT25 SuggestProjectileVelocity
+* BT26 Predict Projectile Landing Point
