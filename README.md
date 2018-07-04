@@ -27,3 +27,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT21 Using LineTraceSingleByChannel()
 * BT22 Unify Player & AI Aiming
 * BT23 Creating Default Sub Objects in C++
+* BT24 BlueprintCallable
