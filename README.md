@@ -30,3 +30,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT24 BlueprintCallable
 * BT25 SuggestProjectileVelocity
 * BT26 Predict Projectile Landing Point
+* BT27 Using FRotators in Unreal
