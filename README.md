@@ -34,3 +34,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT28 BlueprintSpawnableComponent()
 * BT29 Review our execution flow
 * BT30 How to report bugs
+* BT31 Using Clamp() to limit values
