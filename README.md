@@ -33,3 +33,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT27 Using FRotators in Unreal
 * BT28 BlueprintSpawnableComponent()
 * BT29 Review our execution flow
+* BT30 How to report bugs
