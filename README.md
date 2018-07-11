@@ -36,3 +36,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT30 How to report bugs
 * BT31 Using Clamp() to limit values
 * BT32 CHALLENGE Turret Rotation
+* BT33 Turret Rotation part 2
