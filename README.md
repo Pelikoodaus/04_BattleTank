@@ -38,3 +38,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT32 CHALLENGE Turret Rotation
 * BT33 Turret Rotation part 2
 * BT34 Setting up projectiles
+* BT35 Using SpawnActor<>() to spawn
