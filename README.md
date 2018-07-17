@@ -41,3 +41,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT35 Using SpawnActor<>() to spawn
 * BT36 Projectile movement component
 * BT37 Making AI Tanks Fire
+* BT38 EditAnywhere vs EditDefaultsOnly
