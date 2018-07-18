@@ -47,3 +47,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT41 ApplyForceAtLocation() in Action
 * BT42 Physics Material & Friction
 * BT43 Fly-By-Wire Control System
+* BT44 Using BlueprintReadOnly
