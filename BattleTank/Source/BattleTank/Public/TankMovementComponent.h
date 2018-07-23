@@ -23,6 +23,9 @@ UFUNCTION(BlueprintCallable, Category = Input)
 
 UFUNCTION(BlueprintCallable, Category = Setup)
 	void Initialise(UTankTrack* LeftTrackToSet, UTankTrack* RightTrackToSet);
+
+UFUNCTION(BlueprintCallable, Category = Input)
+void IntendTurnRight(float Throw);
 	
 private:
 	UTankTrack* LeftTrack = nullptr;
