@@ -49,3 +49,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT43 Fly-By-Wire Control System
 * BT44 Using BlueprintReadOnly
 * BT45 Completing manual tank movement
+* BT46 Introducing AI Pathfinding
