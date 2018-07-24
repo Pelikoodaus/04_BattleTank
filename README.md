@@ -52,3 +52,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT46 Introducing AI Pathfinding
 * BT47 Dissecting RequestDirectMove()
 * BT48 DotProduct() Vector Operator
+* BT49 CrossProduct() Vector Operator
