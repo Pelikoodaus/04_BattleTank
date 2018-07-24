@@ -53,3 +53,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT47 Dissecting RequestDirectMove()
 * BT48 DotProduct() Vector Operator
 * BT49 CrossProduct() Vector Operator
+* BT50 Finalising your class code
