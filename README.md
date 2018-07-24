@@ -54,3 +54,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT48 DotProduct() Vector Operator
 * BT49 CrossProduct() Vector Operator
 * BT50 Finalising your class code
+* BT51 How To Use Blueprint Variables
