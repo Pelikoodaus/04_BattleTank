@@ -57,3 +57,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT51 How To Use Blueprint Variables
 * BT52 Using Enum(erations) in UE4
 * BT53 Refactoring our aiming component
+* BT54 Attaching a Debugger to Unreal
