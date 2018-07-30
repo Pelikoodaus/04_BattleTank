@@ -59,3 +59,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT53 Refactoring our aiming component
 * BT54 Attaching a Debugger to Unreal
 * BT55 Costructor & Begin Play Timing
+* BT56 Decoupling Your Architecture
