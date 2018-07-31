@@ -54,6 +54,7 @@ void UTankAimingComponent::AimAt(FVector HitLocation, float LaunchSpeed)
 void UTankAimingComponent::MoveBarrelTowards(FVector AimDirection)
 {
 	if (!ensure(Barrel && Turret)) { return; }
+	UE_LOG(LogTemp, Warning, TEXT("i'm here"))
 	// Workd-out the difference between barrel rotation and AimDirection
 	auto BarrelRotator = Barrel->GetForwardVector().Rotation();
 	auto AimAsRotator = AimDirection.Rotation();
