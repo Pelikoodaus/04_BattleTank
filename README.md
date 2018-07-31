@@ -61,3 +61,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT55 Costructor & Begin Play Timing
 * BT56 Decoupling Your Architecture
 * BT57 BlueprintImplementableEvent
+* BT58 Using the ensure Assertion
