@@ -1,7 +1,6 @@
 // Copyright EmbraceIT Ltd.
 
 #include "Tank.h"
-#include "TankMovementComponent.h"
 #include "TankBarrel.h"
 #include "Projectile.h"
 #include "Engine/World.h"
