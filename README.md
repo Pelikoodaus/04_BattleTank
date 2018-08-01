@@ -65,3 +65,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT59 Dependency mapping
 * BT60 Starting from green
 * BT61 Aiming without the tank
+* BT62 Finishing our refactoring
