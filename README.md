@@ -71,3 +71,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT65 Programmatic sideways friction
 * BT66 OnComponentHit Event 
 * BT67 Avoiding boolean flags
+* BT68 Improving Tank Aiming
