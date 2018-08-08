@@ -75,3 +75,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT69 Tweaking Tank AI
 * BT70 Making an ammo display
 * BT71 Making an AutoMortar
+* BT72 Using the reference viewer
