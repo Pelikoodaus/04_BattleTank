@@ -82,3 +82,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT76 Using FAttachmentTransformRules
 * BT77 Radial Forces & Caching
 * BT78 Using GetTimerManager()
+* BT79 Using TakeDamage() on Actors
