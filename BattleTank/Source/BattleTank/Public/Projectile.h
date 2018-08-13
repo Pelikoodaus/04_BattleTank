@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Runtime/Engine/Classes/PhysicsEngine/RadialForceComponent.h"
 #include "Runtime/Engine/Classes/Particles/ParticleSystemComponent.h"
 #include "GameFramework/ProjectileMovementComponent.h"
 #include "GameFramework/Actor.h"
@@ -26,6 +27,10 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
+
+	UFUNCTION()
+	void OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit);
+
 	UProjectileMovementComponent* ProjectileMovement = nullptr;
 
 	UPROPERTY(VisibleAnywhere, Category = "Components")
@@ -37,6 +42,6 @@ private:
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	UParticleSystemComponent* ImpactBlast = nullptr;
 
-	UFUNCTION()
-	void OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit);
+	UPROPERTY(VisibleAnywhere, Category = "Components")
+	URadialForceComponent* ExplosionForce = nullptr;
 };
