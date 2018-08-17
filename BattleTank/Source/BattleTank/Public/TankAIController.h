@@ -21,9 +21,14 @@ protected:
 	float AcceptanceRadius = 8000;
 
 private:
+
+	virtual void SetPawn(APawn* InPawn) override;
 	
 	virtual void Tick(float DeltaTime) override;
 
 	virtual void BeginPlay() override;
+
+	UFUNCTION()
+	void OnPossedTankDeath();
 
 };
