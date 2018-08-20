@@ -86,3 +86,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT80 BlueprintPure & Health Bars
 * BT81 The observer pattern
 * BT82 Finishing off part 1
+* BT83 Finishing off part 2
