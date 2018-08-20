@@ -2,6 +2,7 @@
 
 
 #include "TankAIController.h"
+#include "Runtime/Engine/Classes/GameFramework/Pawn.h"
 #include "Tank.h"
 #include "TankAimingComponent.h"
 #include "Engine/World.h"
@@ -27,7 +28,8 @@ void ATankAIController::SetPawn(APawn* InPawn)
 
 void ATankAIController::OnPossedTankDeath()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Received!!!"))
+	if (!ensure(GetPawn())) { return; } //TODO remove ensure
+	GetPawn()->DetachFromControllerPendingDestroy();
 }
 
 // Called every frame
