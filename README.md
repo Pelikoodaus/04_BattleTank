@@ -97,3 +97,4 @@ open world head to head tank game [Link](https://github.com/Pelikoodaus/04_Battl
 * BT91 Applying driving force
 * BT92 Tick Groups and Physics
 * BT93 Tweaking linear&angular damping
+* BT94 BONUS: Fixing collider issue
